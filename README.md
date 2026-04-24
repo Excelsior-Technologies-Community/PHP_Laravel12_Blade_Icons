@@ -504,4 +504,7 @@ PHP_Laravel12_Blade_Icons/
 ---
 
 Your PHP_Laravel12_Blade_Icons Project is now ready!
+<<<<<<< HEAD
 
+=======
+>>>>>>> development
